@@ -1,0 +1,28 @@
+{
+  "name": "vmart",
+  "version": "1.0.0",
+  "description": "This is a E-Commerce website created for vnit students using MERN stack.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "production": "node server.js"
+  },
+  "author": "Bhushan Bahale",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.6.1",
+    "multer": "^1.4.5-lts.1",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  }
+}

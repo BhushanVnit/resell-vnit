@@ -1,0 +1,4 @@
+mongodb+srv://bhushan:<password>@cluster0.ifjmf0v.mongodb.net/?retryWrites=true&w=majority
+
+username - bhushan 
+password - resell-123@#
